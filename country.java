@@ -9,6 +9,7 @@ public abstract class Country {
     }
 
     abstract public String capital();
+    abstract public String countryString(String country);
 
     public static void main(String[] args){
         
